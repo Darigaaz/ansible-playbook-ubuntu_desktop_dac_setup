@@ -1,0 +1,3 @@
+[submodule "roles/ubuntu_desktop_dac_setup"]
+	path = roles/ubuntu_desktop_dac_setup
+	url = https://github.com/Darigaaz/ansible-role-ubuntu_desktop_dac_setup.git
